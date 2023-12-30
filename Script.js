@@ -130,7 +130,7 @@ while (count < All_cards.length) {
     <p>${All_cards[count].type}</p>
     <div class="card-head">
         <span class="head">${All_cards[count].name}</span>
-        <span class="rating"><img src="./images/Star.png">${All_cards[count].rating}</span>
+        <span class="rating"><img src="./Star.png">${All_cards[count].rating}</span>
     </div>
     <div class="card-base">
         <span class="duration">${All_cards[count].time}</span>
@@ -171,7 +171,7 @@ for (let item of rating) {
                         <p>${i.type}</p>
                         <div class="card-head">
                             <span class="head">${i.name}</span>
-                            <span class="rating"><img src="./images/Star.png">${i.rating}</span>
+                            <span class="rating"><img src="./Star.png">${i.rating}</span>
                         </div>
                         <div class="card-base">
                             <span class="duration">${i.time}</span>
@@ -193,7 +193,7 @@ for (let item of rating) {
                         <p>${i.type}</p>
                         <div class="card-head">
                             <span class="head">${i.name}</span>
-                            <span class="rating"><img src="./images/Star.png">${i.rating}</span>
+                            <span class="rating"><img src="./Star.png">${i.rating}</span>
                         </div>
                         <div class="card-base">
                             <span class="duration">${i.time}</span>
@@ -220,7 +220,7 @@ for (let item of rating) {
                     <p>${i.type}</p>
                     <div class="card-head">
                         <span class="head">${i.name}</span>
-                        <span class="rating"><img src="./images/Star.png">${i.rating}</span>
+                        <span class="rating"><img src="./Star.png">${i.rating}</span>
                     </div>
                     <div class="card-base">
                         <span class="duration">${i.time}</span>
@@ -252,7 +252,7 @@ for (let item of filter) {
                         <p>${i.type}</p>
                         <div class="card-head">
                             <span class="head">${i.name}</span>
-                            <span class="rating"><img src="./images/Star.png">${i.rating}</span>
+                            <span class="rating"><img src="./Star.png">${i.rating}</span>
                         </div>
                         <div class="card-base">
                             <span class="duration">${i.time}</span>
@@ -273,7 +273,7 @@ for (let item of filter) {
                         <p>${i.type}</p>
                         <div class="card-head">
                             <span class="head">${i.name}</span>
-                            <span class="rating"><img src="./images/Star.png">${i.rating}</span>
+                            <span class="rating"><img src="./Star.png">${i.rating}</span>
                         </div>
                         <div class="card-base">
                             <span class="duration">${i.time}</span>
@@ -295,7 +295,7 @@ for (let item of filter) {
                         <p>${i.type}</p>
                         <div class="card-head">
                             <span class="head">${i.name}</span>
-                            <span class="rating"><img src="./images/Star.png">${i.rating}</span>
+                            <span class="rating"><img src="./Star.png">${i.rating}</span>
                         </div>
                         <div class="card-base">
                             <span class="duration">${i.time}</span>
@@ -325,7 +325,7 @@ search.addEventListener("keyup", (event) => {
                         <p>${i.type}</p>
                         <div class="card-head">
                             <span class="head">${i.name}</span>
-                            <span class="rating"><img src="./images/Star.png">${i.rating}</span>
+                            <span class="rating"><img src="./Star.png">${i.rating}</span>
                         </div>
                         <div class="card-base">
                             <span class="duration">${i.time}</span>
